@@ -1,0 +1,18 @@
+# PASWG Character Maker
+A simple C# console application that allows users to create and edit fictional characters based on the anime Panty and Stocking with Garterbelt.
+
+## ✨ Features
+- Create a character with attributes like name, species, and alignment.
+- Edit existing character attributes interactively.
+- Save your character to a file.
+
+## 🚀 How to Run
+1. Clone the repo.
+2. Open in Visual Studio.
+3. Build and run the application in Debug or Release mode.
+
+## 🛠 Tech Stack
+- C#
+- .NET Console App
+
+## 📂 Project Structure
