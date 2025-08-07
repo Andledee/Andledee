@@ -1,0 +1,11 @@
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\bin\Debug\PSWG_Character_Maker_Winform.exe.config
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\bin\Debug\PSWG_Character_Maker_Winform.exe
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\bin\Debug\PSWG_Character_Maker_Winform.pdb
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\obj\Debug\PSWG_Character_Maker_Winform.csproj.AssemblyReference.cache
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\obj\Debug\PSWG_Character_Maker_Winform.Form1.resources
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\obj\Debug\PSWG_Character_Maker_Winform.Properties.Resources.resources
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\obj\Debug\PSWG_Character_Maker_Winform.csproj.GenerateResource.cache
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\obj\Debug\PSWG_Character_Maker_Winform.csproj.CoreCompileInputs.cache
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\obj\Debug\PSWG_Character_Maker_Winform.exe
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\obj\Debug\PSWG_Character_Maker_Winform.pdb
+C:\Users\andie\OneDrive\Desktop\Programming\C#\PSWG_Character_Maker_Winform\obj\Debug\PSWG_Character_Maker_Winform.exe.config
